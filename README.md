@@ -8,7 +8,11 @@ Responda estas perguntas
 
 1.	Que decisões devem ser tomadas?
 
+Uma rede líder de pet shops localizada no estado de Wyoming, chamada Pawcity, tem necessidade de um estudo sobre onde abrir a 14ª loja da rede.
+
 2.	Que dados são necessários para subsidiar essas decisões?
+
+
 
 ## Passo 2: Construindo o Conjunto de Treinamento
 
