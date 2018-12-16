@@ -32,3 +32,6 @@ Existem cidades que são outliers no conjunto de treinamento? Qual outlier você
 
 Antes de enviar
 Por favor, verifique suas respostas contra os requisitos do projeto ditados por esta rubrica usada pelos revisores para classificar seu projeto.
+
+## Fluxo Alteryx
+
