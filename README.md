@@ -20,13 +20,7 @@ Construa seu conjunto de treinamento dado os dados fornecidos a você. As somas 
 
 Além disso, forneça as médias do seu conjunto de dados aqui para ajudar os revisores a verificar o seu trabalho. Você deve arredondar até duas casas decimais, ex: 1.24
 
-Column	Sum	Average
-Census Population	213,862	
-Total Pawdacity Sales	3,773,304	
-Households with Under 18	34,064	
-Land Area	33,071	
-Population Density	63	
-Total Families	62,653	
+![table1](https://user-images.githubusercontent.com/34245933/50059977-ec12cd00-0174-11e9-920b-5bbfba2edc0d.PNG)
 
 ## Passo 3: Tratando os Outliers
 
