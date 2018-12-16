@@ -12,7 +12,7 @@ Uma rede líder de pet shops localizada no estado de Wyoming, chamada Pawcity, t
 
 2.	Que dados são necessários para subsidiar essas decisões?
 
-
+Para obtermos resultados satisfatórios no estudo, precisamos de informações para incluirmos na modelagem do projeto. Precisamos de informações como: população total das cidades do estador de Wyoming, as vendas das lojas Pawcity por cidade, vendas dos competidores, número de casas com pessoas com menos de 18 anos, tamanho das áreas, densidade populacional e total de famílias por cidades. Estas informações são cruciais para entendermos o tamanho das cidades, tamanhos das famílias, propensão a consumir produtos de petshop e entendermos as nossas vendas x competidores por cada uma das variáveis a serem analisadas.
 
 ## Passo 2: Construindo o Conjunto de Treinamento
 
