@@ -35,3 +35,4 @@ Por favor, verifique suas respostas contra os requisitos do projeto ditados por 
 
 ## Fluxo Alteryx
 
+![alteryx workflow](https://user-images.githubusercontent.com/34245933/50060157-3a28d000-0177-11e9-892f-d8eba2df6f27.PNG)
