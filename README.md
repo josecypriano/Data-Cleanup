@@ -28,5 +28,7 @@ Responda estas perguntas
 
 Existem cidades que são outliers no conjunto de treinamento? Qual outlier você escolheu para remover ou imputar? Como esse conjunto de dados é um conjunto de dados pequeno (11 cidades), você deve apenas remover ou imputar um outlier. Explique o seu raciocínio.
 
+![scatterplots](https://user-images.githubusercontent.com/34245933/50060132-d9999300-0176-11e9-902a-42581190f513.PNG)
+
 Antes de enviar
 Por favor, verifique suas respostas contra os requisitos do projeto ditados por esta rubrica usada pelos revisores para classificar seu projeto.
