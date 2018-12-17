@@ -30,6 +30,8 @@ Existem cidades que são outliers no conjunto de treinamento? Qual outlier você
 
 ![scatterplots](https://user-images.githubusercontent.com/34245933/50060132-d9999300-0176-11e9-902a-42581190f513.PNG)
 
+Analisando os resultados obtidos pelos scatterplots acima, vemos que as cidades de Cheyenne e Gillette são outliers, pois seus números de vendas são muito maiores em relação às outras cidades. Cheyenne podemos ignorá-la pois os dados são de uma cidade grande e não influenciam nos demais resultados. Enquanto isso, eu excluiria Gillette por conta que apenas a variável de vendas é outlier, com isso a cidade não tem característica de uma cidade grande, portanto influenciaria nos demais resultados, podemos considerá-la como anormal.
+
 Antes de enviar
 Por favor, verifique suas respostas contra os requisitos do projeto ditados por esta rubrica usada pelos revisores para classificar seu projeto.
 
